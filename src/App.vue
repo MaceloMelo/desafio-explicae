@@ -4,8 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/megasena">Mega Sena</router-link> |
       <router-link to="/fileReader">File txt</router-link> |
-      <router-link to="/api">Api</router-link> |
-      <router-link to="/about">Info</router-link>
+      <router-link to="/api">Api</router-link>
     </div>
     <router-view />
   </div>

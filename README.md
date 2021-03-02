@@ -1,8 +1,8 @@
 # desafio-explicae
 
-## Project setup
+## Objetivo
 ```
-npm install
+Prova realizada com o objetivo de passar na entrevista de trabalho da empresa Explicae.
 ```
 
 ### Compiles and hot-reloads for development

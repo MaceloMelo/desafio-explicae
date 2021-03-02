@@ -1,6 +1,17 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <div class="">
+      <h3>Utilizações</h3>
+      <div>
+        <b-list-group horizontal="md" class="justify-content-center mt-4">
+          <b-list-group-item>Vue Router</b-list-group-item>
+          <b-list-group-item>Bootstrao Vue</b-list-group-item>
+          <b-list-group-item>FileReader</b-list-group-item>
+          <b-list-group-item>Axios</b-list-group-item>
+        </b-list-group>
+      </div>
+    </div>
   </div>
 </template>
 
