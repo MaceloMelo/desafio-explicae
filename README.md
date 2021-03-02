@@ -10,7 +10,9 @@ Prova realizada com o objetivo de passar na entrevista de trabalho da empresa Ex
 ```
 CRIAR UM SORTEIO SEMELHANTE A  MEGA SENA
 ```
+```
 LER UM ARQUIVO .txt EXIBIR O CONTEUDO
+```
 ```
 CONSUMIR DADOS DE UMA API
 ```
